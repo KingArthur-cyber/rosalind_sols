@@ -1,0 +1,2 @@
+s = "DNA"
+while 
